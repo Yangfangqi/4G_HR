@@ -1,0 +1,19 @@
+{
+  "version": 100,
+  "password": "123",
+  "collectCycle": 10,
+  "conf": {
+   "protocol": "mqtt",
+    "clientID": "GID_EC800M@@@001",
+    "username": "Signature|LTAI5tE84GMytUDjtdzpyPuS|mqtt-cn-zpr2zg1er01",
+    "passwd":"GfCVKpPvjKTVumR6uO1lUCCxuhQ=",
+    "url": "mqtt-cn-zpr2zg1er01.mqtt.aliyuncs.com",
+    "port": "1883",
+    "keep_alive": 30,
+    "cleanSession": "1",
+    "subscribe": {"0": "EC800-TEST-001"},
+    "publish": {"0": "EC800-TEST-002"},
+    "qos": "0",
+    "retain": "1"
+  }
+}
