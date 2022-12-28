@@ -1,0 +1,15 @@
+{
+	"id": 10001,
+	"version": "V2.1",
+	"function": "iot/auth",
+	"caller": "RTU",
+	"body": {
+		"sn": "2022091310001",
+		"imei": "861529040922896",
+		"iccid": "1234567888888",
+		"module": "RTU01",
+		"manufacture": "JS",
+		"algId": "",
+		"checkID": ""
+	}
+}
